@@ -23,4 +23,4 @@ set visualbell
 set noerrorbells
 set title
 set relativenumber
-set syntax on
+syntax on
