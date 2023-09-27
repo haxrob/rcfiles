@@ -22,3 +22,4 @@ colorscheme slate
 set visualbell
 set noerrorbells
 set title
+set relativenumber
